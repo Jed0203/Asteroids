@@ -1,0 +1,15 @@
+﻿  driver.cpp
+  game.cpp
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(111,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(158,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(158,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(166,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(166,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(176,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(247,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\CS165\Asteroids\game.cpp(260,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Asteroids.vcxproj -> C:\Users\user\Desktop\CS165\Asteroids\Debug\Asteroids.exe
